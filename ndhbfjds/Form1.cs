@@ -24,4 +24,3 @@ namespace DESIGN
     }
 }
 
-testing
